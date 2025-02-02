@@ -1,2 +1,2 @@
-# Tide
+# TiDB
 TiDBのリポジトリ
