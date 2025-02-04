@@ -39,8 +39,14 @@ TiDBのコンテナに, pythonのコンテナから接続することを例に�
     conn.close()
     ```
 
+# 環境
+* Mac OS 15.2
+* Podman 5.3.2
+* Podman Desktop 1.16.0
+* mysql-connector-python 9.2.0
 
 # 変更履歴
+* 2025.02.04 - 環境情報を追記
 * 2025.02.02 - 新規作成
 
 -EOF-
