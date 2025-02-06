@@ -43,6 +43,7 @@ TiDBのコンテナに, pythonのコンテナから接続することを例に�
 * Mac OS 15.2
 * Podman 5.3.2
 * Podman Desktop 1.16.0
+* TiDB v7.5.1
 * mysql-connector-python 9.2.0
 
 # 変更履歴

@@ -72,6 +72,7 @@
 * Mac OS 15.2
 * Podman version 5.3.1
 * Podman Desktop 1.16.0
+* TiDB v7.5.1
 
 # 参考
 * [dockerhub](https://hub.docker.com/r/pingcap/tidb)
