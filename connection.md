@@ -18,7 +18,7 @@ TiDBのコンテナに, pythonのコンテナから接続することを例に�
     ```
 
 ## mysql-connector-python
-1. mysql-connector-pythonをインストール
+1. mysql-connector-pythonをインストール<br/>
     pythonのコンテナ内で以下のコマンドを実行.
     ```bash
     (.venv)> pip install mysql-connector-python
